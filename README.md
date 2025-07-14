@@ -1,6 +1,6 @@
 # eXifMarksTheSpot
 
-**eXifMarksTheSpot** is a digital forensics tool designed to extract and visualize geolocation and metadata from image files. It scans a folder of JPEG images, retrieves GPS coordinates from EXIF metadata (if available), computes MD5 file hashes, and generates:
+**eXifMarksTheSpot** is a tool designed to extract and visualize geolocation and metadata from image files. It scans a folder of JPEG images, retrieves GPS coordinates from EXIF metadata (if available), computes MD5 file hashes, and generates:
 
 - An interactive HTML report
 - A KML file for mapping in tools like Google Earth
@@ -22,17 +22,16 @@ This tool helps to present visual GPS metadata of where and when photos were tak
  Supports:
 - Python script execution
 - Future Windows executable (.exe) version for easy use  
- Designed for forensic workflows and presentations
 
 ---
 
 ## Example Use Case
 
-- A forensic examiner investigates images with metadata.
+- Analyzing images with metadata.
 - Runs eXifMarksTheSpot on recovered images.
 - Determines where photos were taken via GPS coordinates.
 - Produces an HTML report for review.
-- Visualizes locations in Google Earth for clear courtroom evidence.
+- Visualizes locations in Google Earth for clear presentations.
 
 ---
 
