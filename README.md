@@ -59,7 +59,10 @@ These samples help illustrate how eXifMarksTheSpot works and how the output look
 Clone or download this repository.
 
 Install Python requirements:
+pip install -r requirements.txt
 
+## Running the Tool
+python eXifMarksTheSpot/eXifMarksTheSpot.py
 
 ## Forensic Disclaimer
 
