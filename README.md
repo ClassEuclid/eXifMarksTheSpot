@@ -21,7 +21,8 @@ This tool helps to present visual GPS metadata of where and when photos were tak
  Creates a KML file for map based visualization  
  Supports:
 - Python script execution
-- Future Windows executable (.exe) version for easy use  
+- Windows executable (.exe) version for easy use
+- https://github.com/ClassEuclid/eXifMarksTheSpot/releases/tag/v2.1.0
 
 ---
 
