@@ -28,7 +28,7 @@ This tool helps to present visual GPS metadata of where and when photos were tak
 
 ## Example Use Case
 
-- A forensic examiner investigates a suspect’s mobile device.
+- A forensic examiner investigates images with metadata.
 - Runs eXifMarksTheSpot on recovered images.
 - Determines where photos were taken via GPS coordinates.
 - Produces an HTML report for review.
