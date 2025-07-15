@@ -14,8 +14,8 @@ and computes the MD5 hash for each file. The results are saved into:
 - an HTML report (clickable links to images, GPS coordinates, hashes)
 - a KML file for visualization in mapping tools (e.g. Google Earth)
 
-This tool is designed for digital forensic investigations and court presentations,
-providing clear, visual evidence of where images were captured.
+This tool is designed for presentations,
+providing clear, visual  of where images were captured.
 
 Author: Class Euclid
 
@@ -76,7 +76,7 @@ def extract_gps_coords(image_path):
     Extracts GPS latitude and longitude from an image's EXIF metadata if available.
 
     This function reads the EXIF GPS tags to determine where an image was taken,
-    which is crucial in forensic investigations for location based evidence.
+    which is crucial for location based artifacts.
 
     Args:
         image_path (str): Full path to the image file (JPEG/JPG).
